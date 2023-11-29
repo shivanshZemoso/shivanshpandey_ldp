@@ -1,0 +1,35 @@
+# Spring Boot
+/target/
+/build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# IntelliJ IDEA
+.idea/
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+log/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+
+.scannerwork
